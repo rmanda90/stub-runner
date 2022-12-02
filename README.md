@@ -1,2 +1,2 @@
 # stub-runner
- A Microservice to generate a fake-data using JavaFaker API
+ A Spring Boot Microservice to generate a fake-data using JavaFaker API and Eureka client enabled.
