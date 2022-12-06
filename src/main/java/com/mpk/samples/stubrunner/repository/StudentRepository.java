@@ -9,9 +9,10 @@ import java.util.List;
 @Repository
 public class StudentRepository {
 
-    final List<Student> studentListList = new ArrayList<>();
+//    public List<Student> studentListList = new ArrayList<>();
 
     public List<Student> findAll() {
+        List<Student> studentListList = new ArrayList<>();
         for (int i = 1; i <= 100; i++) {
             studentListList.add(new Student().builder().id(i).build());
         }

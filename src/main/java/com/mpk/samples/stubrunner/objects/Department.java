@@ -27,7 +27,9 @@ public class Department {
     static {
         /*Total 25 Elements*/
         departmentList.add("ANTHROPOLOGY");
+        departmentList.add("BACHELOR OF ENGINEERING");
         departmentList.add("COMMERCE & MANAGEMENT STUDIES");
+        departmentList.add("COMPUTER APPLICATIONS");
         departmentList.add("ECONOMICS");
         departmentList.add("EDUCATION");
         departmentList.add("ENGLISH");
@@ -49,8 +51,6 @@ public class Department {
         departmentList.add("TELUGU");
         departmentList.add("THEATRE ARTS");
         departmentList.add("YOGA AND CONSCIOUSNESS");
-        departmentList.add("Computer Applications");
-        departmentList.add("Bachelor of Engineering");
     }
 
     private int id;
