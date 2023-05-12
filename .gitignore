@@ -44,3 +44,7 @@ bin
 /src/main/web-app/node_modules/
 /src/main/web-app/build
 /src/main/web-app/yarn.lock
+
+### DS Store ###
+*/.DS_Store
+**/.DS_Store
